@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data 8
-description: Foundations of Data Science
-author: Data 8 Staff
-email: data8@berkeley.edu
-baseurl: '/fa23' # the subpath of your site, e.g. /blog
+title: SCDV110
+description: Introduction to Exploratory Data Analysis & Visualization
+author: UC Berkeley / Data 8 Staff
+email: jmoustakas@siena.edu
+baseurl: './' # the subpath of your site, e.g. /blog
 url: 'https://www.data8.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/data8logo.png"
@@ -30,7 +30,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Office Hours:
-    - 'https://www.data8.org/fa23/officehours/'
+    - 'https://moustakas.github.io/scdv110-fall23/officehours/'
   Textbook:
     - 'https://inferentialthinking.com/chapters/intro.html'
   Ed:

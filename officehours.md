@@ -7,15 +7,11 @@ description: >-
 ---
 
 # Office Hours
-You are welcome to show up to any office hours. Please see the calendar for OH times and locations.
-
-We use an [online sign-up system](https://oh.data8.org/) to help keep track of everyone.
-
-If you need help during your lab section, please utilize the [lab queue](https://oh.data8.org/) instead so that the lab TAs can see your help request!
+You are welcome to show up to any office hours. Please see the calendar for times and locations.
 
 ## Office Hours Calendar
 
-### Data 8 Fall 2023 Office Hour Calendar
+### SCDV 110 Fall 2023 Office Hour Calendar
 
   <style>
     /* Style the container to enable rounded corners and drop shadow */

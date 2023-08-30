@@ -19,11 +19,18 @@ description: >-
 
 ## Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 FA23 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLSdPY_gOcPqEp4ccDxNTHpj0e6BiM7WFhK1t7tVmzFEJWNwfbg/viewform?usp=sf_link) form. Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads.
+We understand that life happens and want to provide you with the support you
+need. If you need to request an extension, please fill out the [DATA 8 FA23
+Extension
+Request](https://docs.google.com/forms/d/e/1FAIpQLSdPY_gOcPqEp4ccDxNTHpj0e6BiM7WFhK1t7tVmzFEJWNwfbg/viewform?usp=sf_link)
+form. Submissions to this form will be visible only to the course instructor.
 
 ## DSP Accommodations
 
-We will provide appropriate accommodations to all students enrolled in Berkeley’s [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To ensure that you receive the appropriate accommodations, please have your DSP specialist submit a letter confirming your status and accommodations.
+We will provide appropriate accommodations to all students enrolled in
+Berkeley’s [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To
+ensure that you receive the appropriate accommodations, please have your DSP
+specialist submit a letter confirming your status and accommodations
 
 If you’re not enrolled in DSP, or are in the process of being onboarded by DSP, you may still be eligible for accommodations. We also aim to provide fair and appropriate accommodations to any students who, because of extenuating circumstances, may need them. Please reach out to data8@berkeley.edu if this is the case and our DSP Lead will get back to you.
 

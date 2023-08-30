@@ -6,13 +6,13 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: Data 8 Fall 2023
+  name: SCDV 110 Fall 2023
 ---
 
-# Data 8: Foundations of Data Science
+# SCDV 110: Introduction to Exploratory Data Analysis & Visualization
 
 {: .mb-2 }
-UC Berkeley, Fall 2023
+Siena College, Fall 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>

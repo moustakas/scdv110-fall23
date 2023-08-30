@@ -15,7 +15,9 @@ seo:
 Siena College, Fall 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
+<!--DARKMODE UNDER CONSTRUCTION
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
+-->
 
 ## Announcements
 
@@ -43,7 +45,7 @@ Siena College, Fall 2023
 <!--DARKMODE UNDER CONSTRUCTION-->
 <br />
 
-
+<!--
 
 <p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9" class="yellow-link">here</a></p>
 
@@ -72,3 +74,5 @@ Siena College, Fall 2023
       onLoad();
   });
 </script>
+
+-->

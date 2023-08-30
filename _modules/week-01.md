@@ -1,6 +1,6 @@
 ---
 title: Week 1
-class: Berkeley
+class: Siena
 status: Active
 ---
 

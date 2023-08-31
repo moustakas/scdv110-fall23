@@ -17,8 +17,8 @@ title: SCDV110
 description: Introduction to Exploratory Data Analysis & Visualization
 author: UC Berkeley / Data 8 Staff
 email: jmoustakas@siena.edu
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://scdv110.github.io/fall2023' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/fall2023' # the subpath of your site, e.g. /blog
+url: 'https://scdv110.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/data8logo.png"
 

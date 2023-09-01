@@ -20,20 +20,29 @@ description: >-
 ## Materials
 
 ### Student Materials Folder
-We will post student materials in [this folder](https://drive.google.com/drive/folders/13DiD3T0WoMSwNYL_i0k2tmMTvOSHJe5T?usp=sharing) throughout the semester.
+Student materials will be posted in [this
+folder](https://drive.google.com/drive/folders/18B5NnBPGR_I7uj4nlyz3PxlfvmHnCeoS?usp=sharing)
+throughout the semester.
 
 ### Guides
-* [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing)
-* [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing)
-* [Confidence Intervals](https://drive.google.com/file/d/1MTHu81FjF2SKps4a6x_N_sMWcFs2APx4/view?usp=sharing)
-* [JupyterHub Tips](https://drive.google.com/file/d/1vA4x3RIwCq8jY4KvTRpqrnmASS7Se1Bn/view?usp=sharing)
-* [Sampling Methods](https://drive.google.com/file/d/1k8uNN0Bg7J0BTgK-0Z5glDNtd_5FTJQl/view?usp=sharing)
-* [Table Functions](https://drive.google.com/file/d/1j2hjhweJdGWW0EdvmjGHsXFUatXIZax4/view?usp=sharing)
-* [Hypothesis Testing](https://drive.google.com/file/d/1s9e252XRIUYxNeI8dNG4D0f8B9iwEv6x/view?usp=sharing)
+* [Arrays Primer](https://drive.google.com/file/d/1wMizGazIfyunq4K1i5wywl-xHh3UCijg/view?usp=drive_link)
+* [Basic Coding](https://drive.google.com/file/d/1HARJP-1uQ-gxc0Sy0MGjyXdFHdVgoQ5s/view?usp=drive_link)
+* [Confidence Intervals](https://drive.google.com/file/d/1VsOBAQ-rrZCWGUJRDvgyp2PTWzQWSp3Q/view?usp=drive_link)
+* [JupyterHub Tips](https://drive.google.com/file/d/1vyPh_IPvEO1R8839M_QbdCuAleniR5ix/view?usp=drive_link)
+* [Tabular Thinking](https://drive.google.com/file/d/1xuqqpvY6cHsF3rK1gCbJHgPeuU6jj07Z/view?usp=drive_link)
+* [Linear Regression](https://drive.google.com/file/d/1GT2PnW8OSGgGsJ-YiBXLadVwxQplsgQ5/view?usp=drive_link)
+* [Random Functions](https://drive.google.com/file/d/1XUKuxTUW436XNmsJ5kWLPQ85C4JLmSdp/view?usp=drive_link)
+
+<!--
+* [Sampling Methods]()
+* [Table Functions]()
+* [Hypothesis Testing]()
+-->
 
 ### Table Resources
 * [Table Function Visualizer](https://www.data8.org/interactive_table_functions/)
 
+<!--
 ## Exam Resources
 
 ### Study Guides
@@ -78,6 +87,7 @@ Exams and practice exams from previous semesters can be found below. These exams
 * [Spring 2017 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp17-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp17-final-solution.pdf)
 * [Spring 2017 Practice Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp17-practice-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp17-practice-final-solution.pdf)
 * [Fall 2016 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa16-final.pdf) / [Solution](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa16-final-sols.pdf)
+-->
 
 ## Supplemental Videos
 * [Group Animation](https://drive.google.com/file/d/1kOVPDuMt68I62qlhPKrVYTY5VQl7MYJm/view?usp=sharing)
@@ -85,18 +95,19 @@ Exams and practice exams from previous semesters can be found below. These exams
 
 ## Wellness Resources
 
-Your wellbeing matters, and we hope that Data 8 is _never_ a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful:
+Your wellbeing matters, and we hope that Data 8 is _never_ a barrier to taking
+care of your mental and physical health. Below are some campus resources that
+may be helpful:
 
-* [University Health Services](https://uhs.berkeley.edu/)
-* [UHS Counseling and Psychological Services (CAPS)](https://uhs.berkeley.edu/caps)
-* [Campus Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub)
-* [ASUC Student Advocate's Office](https://advocate.berkeley.edu/)
-* [Basic Needs Center](https://basicneeds.berkeley.edu/)
-* [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)
+* [Health Promotion Office](https://www.siena.edu/offices/health-promotion)
+* [Counseling Center](https://www.siena.edu/offices/counseling-center)
+* [Academic Success Center](https://www.siena.edu/offices/sase/academic-support-and-success/asc)
 
+<!--
 <script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
     onLoad();
 });
 </script>
+-->

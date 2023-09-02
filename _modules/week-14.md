@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Dec 5
+
+Dec 7
+
+
+<!--
 Nov 20
 : **37 (Adhikari)**{: .label} Updating Predictions
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -17,3 +23,4 @@ Nov 22
 
 Nov 24
 : **Holiday**{: .label} No Class
+-->

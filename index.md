@@ -19,14 +19,14 @@ Siena College, Fall 2023
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 -->
 
-## Announcements
+## Course calendar
 
-
+<!--
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
-
+-->
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}
 {% assign active-mods = '' | split: '' %}

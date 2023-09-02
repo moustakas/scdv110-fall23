@@ -4,6 +4,18 @@ class: Berkeley
 status: Active
 ---
 
+Nov 7
+
+
+Nov 9
+: **Professor Travel**{: .label} Asynchronous Class
+
+
+<!--
+: **Lab**{: .label .label-lab} Lab 03: Data Types, Creating and Extending Tables (Due 9/8)
+  : Lab 03 Worksheet
+
+
 Oct 23
 : **26 (Sahai)**{: .label} The Normal Distribution
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -22,3 +34,4 @@ Oct 27
 : *Reading:* [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 : **Homework**{: .label .label-homework} Homework 09 (Due 11/1)
 : **Project**{: .label .label-project} Project 2: Climate (Due 11/10, Checkpoint 11/3)
+-->

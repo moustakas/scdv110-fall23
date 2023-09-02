@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Oct 17
+
+Oct 19
+
+
+<!--
 Oct 2
 : **17 (Sahai)**{: .label} Comparing Distributions
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -22,3 +28,4 @@ Oct 6
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 : **Homework**{: .label .label-homework} Homework 07 (Due 10/11)
+-->

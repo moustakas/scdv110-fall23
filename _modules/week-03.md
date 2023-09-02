@@ -4,6 +4,19 @@ class: Berkeley
 status: Active
 ---
 
+Sep 19
+
+Sep 21
+
+
+<!--
+Sep 1
+: **5 (Khan)**{: .label} Building Tables
+  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
+: *Reading:* [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
+: **Homework**{: .label .label-homework} Homework 02 (Due 9/6)
+
+
 Sep 4
 : **Holiday**{: .label} No Class
 : **Lab**{: .label .label-lab} Lab 03: Data Types, Creating and Extending Tables (Due 9/8)
@@ -20,3 +33,4 @@ Sep 8
 : *Reading:* [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
 : **Homework**{: .label .label-homework} Homework 03 (Due 9/13)
 
+-->

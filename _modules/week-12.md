@@ -4,6 +4,13 @@ class: Berkeley
 status: Active
 ---
 
+Nov 21
+
+Nov 23
+: **Holiday**{: .label} No Class
+
+
+<!--
 Nov 6
 : **32 (Sahai)**{: .label} Residuals
 : **32**{: .label} Residuals
@@ -22,3 +29,4 @@ Nov 10
 : **Holiday**{: .label} No Class
 : **Homework**{: .label .label-homework} Homework 11 (Due 11/17)
 : **Project**{: .label .label-project} Project 3: Classifying Movies (Checkpoint 9/17, Due 12/1)
+-->

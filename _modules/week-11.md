@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Nov 14
+
+Nov 16
+
+
+<!--
 Oct 30
 : **29 (Sahai)**{: .label} Correlation
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -21,3 +27,4 @@ Nov 3
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : *Reading:* [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
 : **Homework**{: .label .label-homework} Homework 10 (Due 11/8)
+-->

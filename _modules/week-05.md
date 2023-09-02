@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Oct 3
+
+Oct 5
+
+
+<!--
 Sep 18
 : **11 (DeNero)**{: .label} Pivots and Joins
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -22,3 +28,4 @@ Sep 22
 : *Reading:* [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 : **Homework**{: .label .label-homework} Homework 05 (Due 9/27)
 
+-->

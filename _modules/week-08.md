@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Oct 24
+
+Oct 26
+
+
+<!--
 Oct 9
 : **20 (Sahai)**{: .label} Causality
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -19,5 +25,4 @@ Oct 13
 : **22 (Course Directors)**{: .label} Midterm Review
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : **Exam**{: .label .label-exam} Midterm (7 - 9 PM)
-
-
+-->

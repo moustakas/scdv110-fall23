@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Nov 28
+
+Nov 30
+
+
+<!--
 Nov 13
 : **34 (Wagner)**{: .label} Privacy (Guest)
  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -19,3 +25,4 @@ Nov 17
 : **36 (Sahai)**{: .label} Classifiers
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
+-->

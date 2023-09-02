@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Sep 26
+
+Sep 28
+
+
+<!--
 Sep 11
 : **08 (Sahai)**{: .label} Histograms
 
@@ -25,3 +31,4 @@ Sep 15
 : **Homework**{: .label .label-homework} Homework 04 (Due 9/20)
 : **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 9/29, Checkpoint 9/22)
 
+-->

@@ -4,6 +4,12 @@ class: Berkeley
 status: Active
 ---
 
+Oct 31
+
+Nov 2
+
+
+<!--
 Oct 16
 : **23 (Adhikari)**{: .label} Confidence Intervals
   <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
@@ -22,3 +28,4 @@ Oct 20
 : *Reading:* [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
   : Supplemental Videos: [SU](https://youtu.be/5R7D1a8ek-w), [Chebyshev](https://youtu.be/Cl01jt8e0JI) 
 : **Homework**{: .label .label-homework} Homework 08 (Due 10/25)
+-->

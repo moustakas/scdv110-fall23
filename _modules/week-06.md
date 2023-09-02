@@ -1,6 +1,6 @@
 ---
 title: Week 6
-class: Berkeley
+class: Siena
 status: Active
 ---
 
@@ -13,5 +13,5 @@ Oct 12
 : Table Examples
   : [Slides]() &#8226; [Demos]()
 : *Reading:* [8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)
-
+: **Homework**{: .label .label-homework} Homework 06 (Due 10/15)
 

@@ -1,28 +1,18 @@
 ---
 title: Week 8
-class: Berkeley
+class: Siena
 status: Active
 ---
 
 Oct 24
+: Sampling
+  : [Slides]() &#8226; [Demos]()
+: *Reading:* [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
+
 
 Oct 26
+: Models
+  : [Slides]() &#8226; [Demos]()
+: *Reading:* [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
+: **Homework**{: .label .label-homework} Homework 08 (Due 10/29)
 
-
-<!--
-Oct 9
-: **20 (Sahai)**{: .label} Causality
-  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
-: *Reading:* [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)
-  : Midterm Lab Worksheet
-
-Oct 11
-: **21 (Course Directors)**{: .label} Examples
-  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
-: *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
-
-Oct 13
-: **22 (Course Directors)**{: .label} Midterm Review
-  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
-: **Exam**{: .label .label-exam} Midterm (7 - 9 PM)
--->

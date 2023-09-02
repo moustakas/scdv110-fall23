@@ -28,7 +28,7 @@ Siena College, Fall 2023
 {% endfor %}
 -->
 
-{% assign mods = site.modules | where: 'class', 'Berkeley' %}
+{% assign mods = site.modules | where: 'class', 'Siena' %}
 {% assign active-mods = '' | split: '' %}
 
 {% for mod in mods %}

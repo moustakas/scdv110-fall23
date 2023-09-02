@@ -1,6 +1,6 @@
 ---
 title: Week 4
-class: Berkeley
+class: Siena
 status: Active
 ---
 
@@ -14,3 +14,4 @@ Sep 28
 : Histograms
   : [Slides]() &#8226; [Demos]()
 : *Reading:* [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
+: **Homework**{: .label .label-homework} Homework 04 (Due 10/1)

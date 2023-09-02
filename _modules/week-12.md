@@ -1,7 +1,7 @@
 ---
 title: Week 12
-class: Berkeley
-status: Active
+class: Siena
+status: Inactive
 ---
 
 Nov 21

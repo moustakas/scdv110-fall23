@@ -16,7 +16,6 @@ Oct 5
 : *Reading:* [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html)
 
 
-: *Reading:* [8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)
 
 Sep 22
 : **13 (Khan)**{: .label} Iteration

@@ -18,4 +18,4 @@ Sep 7
 : Cause and Effect
   : [Slides](https://docs.google.com/presentation/d/1hsfoZ27UxipUV3ZbzwodV7gDEb1o3fC9M6KUzf9xTXc/edit?usp=sharing)
 : *Reading:* [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
-: **Homework**{: .label .label-homework} [Homework 01](https://github.com/moustakas/scdv110-fall23-public/blob/main/hw/hw01/hw01.ipynb) (Due 9/10)
+: **Homework**{: .label .label-homework} [Homework 01](https://github.com/scdv110/fall2023-students/blob/main/hw/hw01/hw01.ipynb) (Due 9/10)
